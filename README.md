@@ -1,4 +1,4 @@
-# TipoAI-ChemLab
+# TipoAI ChemLab - Properties Predictions
 Deep learning is a very great way to analyse big amounts of data, so we thought if we chould make a model that can predict molecular properties and implement this in some sort of web application where everyone has access, students, scientists and so on. We belive that this is the beginning of our project "ChemLab". We have a vision of one single platform with all the necessary chemistry tools needed, everything from Molecular Properties Predictions to Retrosynthesis, this will be a big project that we will put much of our free time on so fell free to support us, more information under Support.
 
 # Dataset
